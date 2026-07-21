@@ -2,7 +2,7 @@
 
 A browser-based real-time speech-to-text workspace.
 
-![Project visual](docs/assets/hero-system-v1.png)
+![realtime-transcriber project visual](assets/realtime-transcriber-hero.png)
 
 ## What it does
 

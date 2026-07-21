@@ -4,6 +4,8 @@
 
 Contact: **Jacksun** · [qinji@jack-sun.com](mailto:qinji@jack-sun.com)
 
+![实时听写主视觉：麦克风输入、实时文字与本地文稿的概念示意。](docs/assets/hero-system-v1.png)
+
 一个极简网页：点击开始，对着麦克风说话，文字实时出现。
 
 ## 模型选择
